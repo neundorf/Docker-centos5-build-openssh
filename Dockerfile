@@ -1,4 +1,4 @@
-FROM centos:5
+FROM aneundorf/centos5-build-svn
 MAINTAINER alexander.neundorf@sharpreflections.com
 
 # install a bunch of development packages
